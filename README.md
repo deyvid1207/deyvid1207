@@ -1,7 +1,12 @@
-[![MasterHead](https://www.creativefabrica.com/wp-content/uploads/2021/02/12/Amazing-natural-scenery-at-night-Graphics-8558140-1-1-580x387.jpg)](https://github.com/deyvid1207)
-HELLO WORLD
+ <h1 align="center"> HEllo WorLd, I Present to you my github profile!
+<img src="https://sites.uw.edu/libraryvoices/files/2017/12/programming-happy-fast-gif.gif" width = 400>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+### :fire: My Stats :
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvid1207&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### :hammer_and_wrench: Languages and Tools :
 
 
@@ -9,7 +14,8 @@ HELLO WORLD
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
 ---
 
-### :fire: My Stats :
+ 
