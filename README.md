@@ -1,7 +1,7 @@
 [![MasterHead](https://www.creativefabrica.com/wp-content/uploads/2021/02/12/Amazing-natural-scenery-at-night-Graphics-8558140-1-1-580x387.jpg)](https://github.com/deyvid1207)
 HELLO WORLD
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### :hammer_and_wrench: Languages and Tools :
 
 
