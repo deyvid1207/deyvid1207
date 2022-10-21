@@ -1,8 +1,5 @@
 [![MasterHead](https://www.creativefabrica.com/wp-content/uploads/2021/02/12/Amazing-natural-scenery-at-night-Graphics-8558140-1-1-580x387.jpg)](https://github.com/deyvid1207)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
