@@ -1,7 +1,6 @@
 [![MasterHead](https://www.creativefabrica.com/wp-content/uploads/2021/02/12/Amazing-natural-scenery-at-night-Graphics-8558140-1-1-580x387.jpg)](https://github.com/deyvid1207)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f4f1fbeee72ea32b766cd884585e7420fc1f7ecc20d9080b39d601c13df27aab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6174616e61736f6f772673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img align="left" 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207)](https://github.com/anuraghazra/github-readme-stats)
 ### :hammer_and_wrench: Languages and Tools :
 
 
