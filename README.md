@@ -1,4 +1,4 @@
- <h1 align="center"> Student at Softuni
+ <h1 align="center"> Student at Softuni</h1>
 <img src="https://sites.uw.edu/libraryvoices/files/2017/12/programming-happy-fast-gif.gif" width = 400>
 
  
