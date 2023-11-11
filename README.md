@@ -1,7 +1,4 @@
  <h1 align="center"> Student at Softuni</h1>
-<img src="https://sites.uw.edu/libraryvoices/files/2017/12/programming-happy-fast-gif.gif" width = 400>
-
- 
 ### :fire: My Stats :
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyvid1207&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
